@@ -39,6 +39,8 @@ class RankingType(str, Enum):
     week_rookie = "week_rookie"
     """新人"""
     day_r18 = "day_r18"
+    day_ai = "daily_ai"
+    day_r18_ai = "daily_r18_ai"
     day_male_r18 = "day_male_r18"
     day_female_r18 = "day_female_r18"
     week_r18 = "week_r18"
